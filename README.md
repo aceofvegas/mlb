@@ -9,6 +9,7 @@
 - example install command: wsl --install -d Ubuntu
 
 - install jupyter notebook: pip install notebook
+- more jupyter install options: https://jupyter.org/install
 
 ## running the notebook
 - open a terminal or cmd in the folder where this repo was cloned
