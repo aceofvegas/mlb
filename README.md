@@ -1,4 +1,4 @@
-# mlb-sim
+# mlb-models
 
 --Requires python--
 
